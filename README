@@ -33,15 +33,6 @@ BACKEND
 
   uvicorn main:app --reload
 
-##############################################################
-
-FRONTEND
-
-1. cd frontend
- cd my-admin-panel
-
- npm run dev
-
 
 ##############################################################
 
