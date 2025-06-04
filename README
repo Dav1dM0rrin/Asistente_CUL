@@ -23,6 +23,11 @@ pip install -r requirements.txt
 Pasos para ejecutar el proyecto 
 Copiar y pegar lo siguiente
 
+
+RECOMENDABLE ESCOGER CADA ENTORNO PARA CADA CARPETA 
+SELECCIONAR EL VENV DE BACKEND
+SELECCIONAR EL VENV DE CHATBOT
+
 BACKEND
 ###################################################
 1. Abrir una Nueva terminal
